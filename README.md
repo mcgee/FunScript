@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FunScript
 
 **FunScript** consists of a standalone F# to JavaScript compiler library and a [Type Provider](http://msdn.microsoft.com/en-us/library/hh156509.aspx) to [TypeScript](http://typescriptlang.org/).
@@ -20,3 +21,7 @@ Please help test the compiler libary and type provider by building samples and r
 ## More information
 
 Please see the [FunScript website](http://www.funscript.info).
+=======
+# FSharp.Atom
+Set of Atom plugins for F# development
+>>>>>>> upstream/master
